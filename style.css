@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lavenderblush;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Cinzel', serif;
+    text-align:center;
+}
+p{
+    text-indent: 20px;
+}
+
+h1{width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: sticky;
+    opacity: 80%;
+    background-color:lightpink;
+}
+#myphoto{
+    border: 5px maroon solid;
+    width: 250px;
+    height: 300px;
+  float: left;
+}
+div{
+ 
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border:maroon 2px solid;
+}
+li {
+    list-style-type: none;
+   }
+   #location{
+       width: 20px;
+       height: 20px;
+   }
+   a{
+       font-size: 24px;
+    text-decoration: none;
+   }
